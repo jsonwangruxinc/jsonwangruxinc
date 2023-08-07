@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @jsonwangruxinc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @jsonwangruxinc
+
+👀 I’m interested in building performant backends and reliable infrastructure. 
+
+🌱 I’m currently learning Rust and Kubernetes. 
+
+💞️ I’m looking to collaborate on open source projects written in Go or Rust.
+
+📫 How to reach me:
+
+- Twitter: @jsonwangruxinc
+- Email: wangruxin996@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jsonwangruxinc
 
 Go's simplicity, efficiency, and suitability for building reliable services makes me excited. I love its concurrency model, type system, and performance considerations.
 
